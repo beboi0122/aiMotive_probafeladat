@@ -1,0 +1,31 @@
+h̲a̲z̲i̲_̲f̲e̲l̲a̲d̲a̲t̲/̲h̲a̲z̲i̲_̲f̲e̲l̲a̲d̲a̲t̲ ̲(̲F̲r̲a̲m̲e̲ ̲0̲0̲0̲6̲)̲.̲c̲s̲v
+
+S̲t̲a̲t̲i̲s̲t̲i̲c̲s̲ ̲a̲b̲o̲u̲t̲ ̲t̲h̲e̲ ̲f̲r̲a̲m̲e
+	Point where x coordinate is minimum: (0.0 , 0.0 , 0.0) 
+	Point where x coordinate is maximum: (6.027918388145715 , -0.08838023143061893 , 1.359701746908872)
+
+	Point where y coordinate is minimum: (2.250113497225863 , -3.429382151208612 , 0.663590469019703)  
+	Point where y coordinate is maximum: (5.661890612567897 , 10.5549575164147 , 1.852097869443282)
+
+	Point where x coordinate is minimum: (4.720017493290862 , -2.655253463174376 , -1.015462411578456)  
+	Point where z coordinate is maximum: (5.61792078477914 , 9.845270567532244 , 1.909093635217994)
+
+	Laser ID: 0		Number of points: 15750		 Number of fails: 188
+	Laser ID: 1		Number of points: 15750		 Number of fails: 108
+	Laser ID: 2		Number of points: 15750		 Number of fails: 104
+	Laser ID: 3		Number of points: 15750		 Number of fails: 87
+	Laser ID: 4		Number of points: 15750		 Number of fails: 0
+
+S̲t̲a̲t̲i̲s̲t̲i̲c̲s̲ ̲a̲b̲o̲u̲t̲ ̲h̲o̲w̲ ̲w̲e̲l̲l̲ ̲t̲h̲e̲ ̲w̲a̲l̲l̲ ̲i̲s̲ ̲d̲e̲t̲e̲c̲t̲e̲d̲ ̲b̲y̲ ̲t̲h̲e̲ ̲L̲i̲D̲A̲R
+	Equation of a Plane from the points of the Wall:
+		z = 15.359050221286674x + 0.4598769584877365y + -90.8443742932369
+	Average Deviation in distance between the points of the wall and the Plane of the wall:
+		0.030095176542105313
+
+S̲t̲a̲t̲i̲s̲t̲i̲c̲s̲ ̲a̲b̲o̲u̲t̲ ̲h̲o̲w̲ ̲w̲e̲l̲l̲ ̲t̲h̲e̲ ̲c̲y̲l̲i̲n̲d̲e̲r̲ ̲i̲s̲ ̲d̲e̲t̲e̲c̲t̲e̲d̲ ̲b̲y̲ ̲t̲h̲e̲ ̲L̲i̲D̲A̲R
+	Height of the cylinder:
+		1.0592112567639502
+	Width of the cylinder:
+		0.11817979490803723
+	Width / Height:
+		0.11157339402631944
